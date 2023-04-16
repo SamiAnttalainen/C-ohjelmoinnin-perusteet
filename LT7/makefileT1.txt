@@ -1,0 +1,7 @@
+# Makefile L7T1.c
+L7T1: L7T1.o L7T1Kirjasto.o
+	gcc L7T1.o L7T1Kirjasto.o -o L7T1
+L7T1.o: L7T1.c L7T1Kirjasto.h
+	gcc L7T1.c -c -std=c99 -pedantic -Wall
+L7T1Kirjasto.o: L7T1Kirjasto.c L7T1Kirjasto.h
+	gcc L7T1Kirjasto.c -c -std=c99 -pedantic -Wall
