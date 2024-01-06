@@ -1,6 +1,7 @@
 // Tekijä: Sami Anttalainen
 // Tehtävä L2T2
 // Ohjelma alkaa
+
 #include <stdio.h>
 #define iAlaraja 3
 #define iYlaraja 10
