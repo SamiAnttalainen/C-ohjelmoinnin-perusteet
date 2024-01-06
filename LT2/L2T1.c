@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 // Tekijä: Sami Anttalainen
 // Tehtävä L2T1
 // Ohjelma alkaa
