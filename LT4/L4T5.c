@@ -1,5 +1,4 @@
 // Tekijä: Sami Anttalainen
-// Opiskelijanumero: 001067291
 // Päivämäärä: 7.2.2023
 // Tehtävä: L4T5.c
 
