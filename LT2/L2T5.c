@@ -1,6 +1,7 @@
 // Tekijä: Sami Anttalainen
 // Tehtävä L2T4
 // Ohjelma alkaa
+
 #include <stdio.h>
 
 int main(void) {
