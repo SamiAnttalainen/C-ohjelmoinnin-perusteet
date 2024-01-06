@@ -2,6 +2,7 @@
 // Päivämäärä: 30.1.2023
 // Tehtävä: L3T1.c
 
+
 #include <stdio.h>
 
 float laskeAla(float fLuku1, float fLuku2);
