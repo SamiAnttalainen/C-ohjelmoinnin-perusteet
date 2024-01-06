@@ -1,5 +1,4 @@
 // Tekijä: Sami Anttalainen
-// Opiskelijanumero: 001067291
 // Päivämäärä: 27.2.2023
 // Tehtävä: L7T2
 // Tiedosto: L7T2Kirjasto.c
