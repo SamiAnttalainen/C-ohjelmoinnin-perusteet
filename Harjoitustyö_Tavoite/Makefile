@@ -1,6 +1,5 @@
 # Makefile HTTavoitetaso.c
 # Tekijä: Sami Anttalainen
-# Opiskelijanumero: 001067291
 # Päivämäärä: 8.3.2023
 HTTavoitetaso.c: HTTavoitetaso.o HTPerusKirjasto.o HTTavoiteKirjasto.o
 	gcc HTTavoitetaso.o HTPerusKirjasto.o HTTavoiteKirjasto.o -o HT
