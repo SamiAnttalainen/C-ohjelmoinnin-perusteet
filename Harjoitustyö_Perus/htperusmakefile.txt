@@ -1,6 +1,5 @@
 # Makefile HTPerustaso.c
 # Tekijä: Sami Anttalainen
-# Opiskelijanumero: 001067291
 # Päivämäärä: 2.3.2023
 # Makefile L7T1.c
 HTPerustaso.c: HTPerustaso.o HTPerusKirjasto.o
