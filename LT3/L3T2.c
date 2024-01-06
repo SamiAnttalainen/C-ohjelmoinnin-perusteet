@@ -2,6 +2,7 @@
 // Päivämäärä: 30.1.2023
 // Tehtävä: L3T2.c
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
