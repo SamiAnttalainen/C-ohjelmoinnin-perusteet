@@ -1,6 +1,7 @@
 // Tekijä: Sami Anttalainen
 // Tehtävä L2T3
 // Ohjelma alkaa
+
 #include <stdio.h>
 #include <string.h>
 
