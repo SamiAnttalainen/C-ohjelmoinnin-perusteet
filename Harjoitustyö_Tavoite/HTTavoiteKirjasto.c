@@ -1,7 +1,6 @@
 /*************************************************************************/
 /* CT60A2500 C-ohjelmoinnin perusteet
 * Tekijä: Sami Anttalainen
-* Opiskelijanumero: 001067291
 * Päivämäärä: 8.3.2023
 * Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat
 * lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
